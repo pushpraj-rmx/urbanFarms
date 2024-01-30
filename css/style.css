@@ -10782,14 +10782,14 @@ img {
 }
 
 .gradient-bg {
-  background-image: url(../../images/home/demo3/slider_bg.jpg);
+  background-image: url(../images/home/demo3/slider_bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
 
 .gradient-bg-10 {
-  background-image: url(../../images/home/demo10/slider_bg.png);
+  background-image: url(../images/home/demo10/slider_bg.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: auto 84rem;
@@ -20346,7 +20346,7 @@ a.add-to-wishlist.active .flaticon.flaticon-heart {
 }
 
 body.not-found-page {
-  background: url(../../images/pattern_bg.png) center no-repeat;
+  background: url(../images/pattern_bg.png) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -20389,7 +20389,7 @@ body.not-found-page .header {
 }
 
 body.coming-soon-page {
-  background: url(../../images/pattern_bg.png) center no-repeat;
+  background: url(../images/pattern_bg.png) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
